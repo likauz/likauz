@@ -11,8 +11,8 @@ I'm a software developer with a passion for Java, Python, machine learning, and 
 ## Skills and Technologies
 
 - **Programming Languages:** Java, Python 
-- **Machine Learning:** TensorFlow, scikit-learn, panda 
-- **Image Processing:** OpenCV
+- **Machine Learning:** TensorFlow, scikit-learn, panda, numpy
+- **Image Processing:** OpenCV, numpy
 
 ## Get in Touch
 
